@@ -4,7 +4,7 @@ from square import Square
 
 
 
-#This is an edit
+#This is an edit OR IS IT????
 class Grid():
 
 	#apparently you need to declare these variables here
